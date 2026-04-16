@@ -1,16 +1,14 @@
-## Hi there 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zayss212&color=12114c" alt="zayss212" /> </p>
 
-<!--
-**zayss212/zayss212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# OS Used
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 
-Here are some ideas to get you started:
+# Language Learning
+<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# My work tools
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zayss212&show_icons=true&locale=en&layout=compact&theme=radical" alt="zayss212" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zayss212&show_icons=true&theme=radical" alt="zayss212" /></p>

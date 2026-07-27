@@ -104,10 +104,10 @@ I run [Shift Studio](https://discord.gg/5pdcJdBvZC) and build the products that 
 
 ## <samp>// reverse engineering</samp>
 
-Beyond shipping products, I also work low-level. I reverse-engineered FiveM (the GTA V multiplayer platform) internals — memory, game structures and runtime hooking — and built **Avenger**, a FiveM cheat, on top of that research.
+Beyond shipping products, I also work low-level. I reverse-engineered FiveM (the GTA V multiplayer platform) internals — memory, game structures and runtime hooking — and built **Prism Software**, a FiveM cheat, on top of that research.
 
 <p>
-  <img src="https://img.shields.io/badge/Avenger-project-e3504f?style=flat-square&labelColor=0d1117" alt="Avenger" />
+  <img src="https://img.shields.io/badge/Prism-Software-7124d4?style=flat-square&labelColor=0d1117" alt="Avenger" />
   <img src="https://img.shields.io/badge/Reverse_Engineering-8957e5?style=flat-square&labelColor=0d1117" alt="Reverse Engineering" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&labelColor=0d1117" alt="C++" />
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua" />

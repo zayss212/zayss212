@@ -83,24 +83,18 @@ I run [Shift Studio](https://discord.gg/5pdcJdBvZC) and build the products that 
         <img src="https://img.shields.io/badge/LuaJit-1A1A1A?style=flat-square&labelColor=0d1117" alt="LuaJit" />
       </p>
       <p>
-        <a href="https://legenddrop.com/"><img src="https://img.shields.io/badge/visit_site-58A6FF?style=flat-square&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="visit site" /></a>
-        <a href="https://github.com/LegendDrop"><img src="https://img.shields.io/badge/org-181717?style=flat-square&logo=github&logoColor=white" alt="org" /></a>
+        <a href="https://shift-obfuscator.com/"><img src="https://img.shields.io/badge/visit_site-58A6FF?style=flat-square&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="visit site" /></a>
+        <a href="https://discord.gg/3UsM9awvvx"><img src="https://img.shields.io/badge/org-181717?style=flat-square&logo=github&logoColor=white" alt="org" /></a>
       </p>
     </td>
     <td valign="top" width="33%">
-      <h3><a href="https://startxperience.eu/">StartXperience</a></h3>
-      <p><b>Tourism SaaS for Malta.</b><br/>Helps tourists discover the best restaurants, nightclubs, parties and events across Malta — all in one place.</p>
+      <h3><a href="https://startxperience.eu/">NextGuard</a></h3>
+      <p><b>FiveM Anti-Cheat Solution</b><br/>Protects any FiveM server against cheaters; features specific detection capabilities for the very latest cheats.</p>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
-        <img src="https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white" alt="Turborepo" />
+        <img src="https://img.shields.io/badge/Lua-000080?style=flat-square&labelColor=0d1117" alt="Lua" />
       </p>
       <p>
-        <a href="https://startxperience.eu/"><img src="https://img.shields.io/badge/visit_site-58A6FF?style=flat-square&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="visit site" /></a>
-        <a href="https://github.com/StartXperience"><img src="https://img.shields.io/badge/org-181717?style=flat-square&logo=github&logoColor=white" alt="org" /></a>
+        <a href="https://discord.gg/UGqeP9WrDq"><img src="https://img.shields.io/badge/visit_site-58A6FF?style=flat-square&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="visit site" /></a>
       </p>
     </td>
     <td valign="top" width="33%">

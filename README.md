@@ -30,15 +30,14 @@
 ```ts
 const Zayss = {
   role: "Founder & Fullstack Developer",
-  company: "Basix Agency",
+  company: "Shift Studio",
   builds: "products end-to-end, frontend to database",
-  industries: ["gaming", "tourism", "web"],
-  alsoInto: ["reverse engineering", "game dev (s&box)"],
-  philosophy: "ship things that matter",
+  industries: ["gaming", "web"],
+  alsoInto: ["reverse engineering", "game dev)", "code security"],
 };
 ```
 
-I run [Basix Agency](https://basix.agency/) and build the products that ship under it. I don't do half-finished side projects collecting dust — I build platforms from scratch and put them in front of real users, first pixel to final schema. What gets me up is the moment an empty repo turns into something live that people open, click through and come back to.
+I run [Shift Studio](https://discord.gg/5pdcJdBvZC) and build the products that ship under it. I don't do half-finished side projects collecting dust - I build platforms from scratch and put them in front of real users, first pixel to final schema. What gets me up is the moment an empty repo turns into something live that people open, click through and come back to.
 
 <br/>
 
@@ -54,15 +53,14 @@ I run [Basix Agency](https://basix.agency/) and build the products that ship und
           <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1f6feb&height=110&section=header&text=Basix%20Agency&fontColor=ffffff&fontSize=42&fontAlignY=55&desc=we%20build%20and%20ship%20the%20web&descAlignY=82&descSize=16" width="100%" alt="Basix Agency" />
         </picture>
       </a>
-      <p><b>A web agency that ships custom websites and SaaS for clients — plus ready-to-go automated services like Discord bots and workflow automation.</b></p>
+      <p><b>A development studio handling projects of all kinds—from simple websites to SaaS solutions across every conceivable sector. Capabilities range from Lua obfuscation to the creation of custom AI models or game engines for AAA titles.</b></p>
       <p>
         <img src="https://img.shields.io/badge/Websites-58A6FF?style=flat-square&labelColor=0d1117" alt="Websites" />
         <img src="https://img.shields.io/badge/SaaS-1f6feb?style=flat-square&labelColor=0d1117" alt="SaaS" />
-        <img src="https://img.shields.io/badge/Automation-238636?style=flat-square&labelColor=0d1117" alt="Automation" />
         <img src="https://img.shields.io/badge/Discord_Bots-5865F2?style=flat-square&logo=discord&logoColor=white&labelColor=0d1117" alt="Discord Bots" />
       </p>
       <p>
-        <a href="https://basix.agency/"><img src="https://img.shields.io/badge/Visit%20basix.agency%20%E2%86%92-1f6feb?style=flat-square&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="Visit basix.agency" /></a>
+        <a href="https://basix.agency/"><img src="https://img.shields.io/badge/Visit%20basix.agency%20%E2%86%92-1f6feb?style=flat-square&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="Join discord.gg/5pdcJdBvZC" /></a>
       </p>
     </td>
   </tr>
@@ -77,14 +75,12 @@ I run [Basix Agency](https://basix.agency/) and build the products that ship und
 <table>
   <tr>
     <td valign="top" width="33%">
-      <h3><a href="https://legenddrop.com/">LegendDrop</a></h3>
-      <p><b>Online case opening platform.</b><br/>Open cases, win items, trade and withdraw — a full-featured case opening experience built from the ground up.</p>
+      <h3><a href="https://legenddrop.com/">Shift Obfuscator</a></h3>
+      <p><b>Lua Code Obfuscator</b><br/>Obfuscate your code and make it unreadable to others while preserving its functionality—all protected by a proprietary structure.</p>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+        <img src="https://img.shields.io/badge/s%26box-FF0050?style=flat-square&labelColor=0d1117" alt="Go" />
+        <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&labelColor=000080" alt="Lua" />
+        <img src="https://img.shields.io/badge/Source_2-1A1A1A?style=flat-square&labelColor=0d1117" alt="LuaJit" />
       </p>
       <p>
         <a href="https://legenddrop.com/"><img src="https://img.shields.io/badge/visit_site-58A6FF?style=flat-square&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="visit site" /></a>

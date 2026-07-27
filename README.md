@@ -97,15 +97,6 @@ I run [Shift Studio](https://discord.gg/5pdcJdBvZC) and build the products that 
         <a href="https://discord.gg/UGqeP9WrDq"><img src="https://img.shields.io/badge/visit_site-58A6FF?style=flat-square&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="visit site" /></a>
       </p>
     </td>
-    <td valign="top" width="33%">
-      <h3>S&amp;E Studios</h3>
-      <p><b>Game studio.</b><br/>Building games on s&amp;box — Facepunch's Source 2 platform — with gameplay, systems and UI written in C#.</p>
-      <p>
-        <img src="https://img.shields.io/badge/s%26box-FF0050?style=flat-square&labelColor=0d1117" alt="s&box" />
-        <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&labelColor=0d1117" alt="C#" />
-        <img src="https://img.shields.io/badge/Source_2-1A1A1A?style=flat-square&labelColor=0d1117" alt="Source 2" />
-      </p>
-    </td>
   </tr>
 </table>
 

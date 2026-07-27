@@ -78,9 +78,9 @@ I run [Shift Studio](https://discord.gg/5pdcJdBvZC) and build the products that 
       <h3><a href="https://legenddrop.com/">Shift Obfuscator</a></h3>
       <p><b>Lua Code Obfuscator</b><br/>Obfuscate your code and make it unreadable to others while preserving its functionality—all protected by a proprietary structure.</p>
       <p>
-        <img src="https://img.shields.io/badge/s%26box-FF0050?style=flat-square&labelColor=0d1117" alt="Go" />
-        <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&labelColor=000080" alt="Lua" />
-        <img src="https://img.shields.io/badge/Source_2-1A1A1A?style=flat-square&labelColor=0d1117" alt="LuaJit" />
+        <img src="https://img.shields.io/badge/Golang-00acd7?style=flat-square&labelColor=0d1117" alt="Go" />
+        <img src="https://img.shields.io/badge/Lua-000080?style=flat-square&labelColor=0d1117" alt="Lua" />
+        <img src="https://img.shields.io/badge/LuaJit-1A1A1A?style=flat-square&labelColor=0d1117" alt="LuaJit" />
       </p>
       <p>
         <a href="https://legenddrop.com/"><img src="https://img.shields.io/badge/visit_site-58A6FF?style=flat-square&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="visit site" /></a>
